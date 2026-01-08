@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/d1fbf22d-a1de-46ea-95f4-7d621b82248f" alt="Cover Photo" width="100%" height="200" style="object-fit: cover;" />
+  <img src="https://media.tenor.com/HwLnTqTTGoYAAAAC/joker-heath-ledger.gif" alt="Cover GIF" width="100%" height="200" style="object-fit: cover;" />
 </div>
 
 <div align="center">

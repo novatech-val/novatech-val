@@ -12,8 +12,8 @@
    
   <p>
     ¡Hola! Soy Valeria. 👋 <br>
-    Engresada de la carrera como técnica superior universitaria, estoy a un paso de terminar la Ingeniería
-    Me gusta aprender y programar, pero me gusta más que el resultado final se vea bonito e increíble y sea fácil de usar 
+    Engresada de la carrera como técnica superior universitaria, estoy a un paso de terminar la Ingeniería.
+    Me gusta aprender y programar, pero me gusta más que el resultado final se vea bonito e increíble y sea fácil de usar. 
     Mi meta es clara, quiero seguir aprendiendo para superarme cada vez
   </p>
 

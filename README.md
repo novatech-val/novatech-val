@@ -5,15 +5,15 @@
 <div align="center">
   <br>
   <h1>Valeria Elizabeth Zapata Ibarra</h1>
-  <h3>Estudiante de Desarrollo de Software Multiplataforma (T.S.U.)</h3>
+  <h3>Estudiante de Desarrollo de Software Multiplataforma </h3>
   <h4>Universidad Tecnológica de Torreón (UTT)</h4>
    
   <br>
    
   <p>
     ¡Hola! Soy Valeria. 👋 <br>
-    Estoy a un paso de terminar mi carrera técnica y lista para saltar a la Ingeniería.
-    Me gusta aprender y programar, pero me gusta más que el resultado final se vea bonito e increíble y sea fácil de usar. 
+    Engresada de la carrera como técnica superior universitaria, estoy a un paso de terminar la Ingeniería
+    Me gusta aprender y programar, pero me gusta más que el resultado final se vea bonito e increíble y sea fácil de usar 
     Mi meta es clara, quiero seguir aprendiendo para superarme cada vez
   </p>
 
